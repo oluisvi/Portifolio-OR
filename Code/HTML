@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
+    <title>Personal Portifolio #1</title>
+</head>
+<body>
+
+     
+    <nav>
+        <div class="nav-logo">
+            <a href="#">
+                
+                <img src="Portifolio Codes/Images/logo.png">
+
+            </a>
+
+        </div>  
+
+        <ul class="nav-links">
+            <li class="link"><a href="#">Página inicial</a></li>
+            <li id="link1" class="link"><a href="#">Projetos</a></li>
+            <li id="link2" class="link"><a href="#">Preços</a></li>
+            <li id="link3" class="link"><a href="#">Sobre</a></li>
+        </ul>
+
+        <button class="btn">Me contrate</button>
+
+    </nav>
+
+    <header class="container">
+        <div class="content">
+            <span class="blur"></span>
+            <span class="blur"></span>
+            <h4>CRIE SEU SITE COMO UM PROFISSIONAL</h4>
+            <H1>Olá, me chamo <span>Luís Henrique</span>, sou desenvolvedor de software e web </H1>
+        
+        
+            <button class="btn">Comece já</button>
+        </div>
+                <div class="image">
+                    <img src="Portifolio Codes/Images/header.png">
+                </div>
+        
+    </header>
+
+    <section class="container">
+        <h2 class="header"> MEUS PROJETOS </h2>
+        <div class="features"> 
+            
+            <div class="card">
+                <span><i class="ri-money-dollar-box-line"></i></span>
+                    <h4>Tutoriais Gratis</h4>
+                    <p>
+                        Os tutoriais no nosso canal são de graça e você nao precisa pagar nada por isso.
+                    </p>
+                    <a href="#">Entre agora <i class="ri-arrow-right-line"></i>
+                    </a>
+            </div>
+            <div class="card">
+                <span><i class="ri-bug-line"></i></span>
+                    <h4>Corrija Seus Bugs</h4>
+                    <p>
+                        Você tem algum problema em seus códigos? Nos conte, eu irei te ajudar a arrumá-lo.
+                    </p>
+                    <a href="#">Entre agora <i class="ri-arrow-right-line"></i>
+                    </a>
+            </div>
+            <div class="card">
+                <span><i class="ri-history-line"></i></span>
+                    <h4>Vídeos no tempo certo</h4>
+                    <p>
+                        Temos vídeos a cada 4 dias, então dê uma olhada no canal a cada 4 dias.
+                    </p>
+                    <a href="#">Entre agora <i class="ri-arrow-right-line"></i>
+                    </a>
+            </div>
+            <div class="card">
+                <span><i class="ri-shake-hands-line"></i></span>
+                    <h4>Cooperação</h4>
+                    <p>
+                        Quer trabalhemos juntos? Me mande um e-mail, nós iremos lê-lo
+                    </p>
+                    <a href="#">Entre agora <i class="ri-arrow-right-line"></i>
+                    </a>
+            </div>
+        </div>
+            
+        
+    </section>
+
+
+    <section class="container">
+        <h2 class="header"> CONFIRA NOSSOS PLANOS</h2>
+        <p class="sub-header">
+            O preço dos nossos planos contam com vários níveis de associação, adaptados para atender diferentes projetos e class+ tipos de códigos.
+        </p>
+
+        <div class="pricing">
+            <div class="card">
+                <div class="content">
+                    <h4>Plano Básico</h4>
+                    <h3>0$</h3>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Plano de codificação inteligente
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Trabalhos para casa
+                    </p>
+                </div>
+                <button class="btn">Entre Agora</button>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <h4>Plano Ouro</h4>
+                    <h3>10$</h3>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Codificação Profissional
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Plano de codificação inteligente
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Trabalhos para casa
+                    </p>
+                </div>
+                <button class="btn">Entre Agora</button>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <h4>Plano Diamante</h4>
+                    <h3>100$</h3>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Aulas de Elite & Cursos7
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Codificação profissional
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Coaching Pessoal
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Aulas de Elite & Cursos
+                    </p>
+                    <p>
+                        <i class="ri-checkbox-circle-line"></i>
+                        Trabalhos para casa
+                    </p>
+                </div>
+                <button class="btn">Entre Agora</button>
+            </div>
+        </div>
+    </section>
+
+    <footer class="container">
+        <span class="blur"></span>
+        <span class="blur"></span>
+        <div class="column">
+            <div class="logo">
+                <img src="Portifolio Codes/Images/logo.png">
+            </div>
+            <p>
+                Muito obrigado pela atenção.
+            </p>
+             
+             <div class="socials">
+                <a href="#"><i class="ri-linkedin-line"></i></a>
+                <a href="#"><i class="ri-instagram-line"></i></a>
+                <a href="#"><i class="ri-twitter-line"></i></a>
+             </div>
+        </div>
+        <div class="column">
+            <h4>Empresa</h4>
+            <a href="#">Business</a>
+            <a href="#">Parcerias</a>
+            <a href="#">Network</a>
+        </div>
+        <div class="column">
+            <h4>Sobre nós</h4>
+            <a href="#">Blogs</a>
+            <a href="#">Canais</a>
+            <a href="#">Patrocinadores</a>
+        </div>
+        <div class="column">
+            <h4>Contato</h4>
+            <a href="#">Nos contate</a>
+            <a href="#">Políticas de privacidade</a>
+            <a href="#">Termos & Condições</a>
+        </div>
+
+    </footer>
+
+    <div class="copyright">
+        Copyright © 2024 Luís Henrique Vieira Barros. Todos os direitos reservados
+    </div>
+
+
+    <script src="script.js"></script>
+      
+
+    
+
+
+</body>
+</html>
