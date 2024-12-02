@@ -23,7 +23,7 @@ Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em const
 
 ### Minhas estatísticas:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/oluisvi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
