@@ -1,6 +1,6 @@
 ### Olá, me chamo Luís Henrique
 
-Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em constante busca por expandir meus conhecimentos em desenvolvimento de sistemas e gestão de projetos. Tenho experiência em linguagens como JavaScript, Java, C#, C++, além de estar familiarizado com UX/UI, metodologias ágeis como Scrum, e ferramentas como Figma e Astah. Estou ansioso para aplicar esse conjunto de habilidades em desafios emocionantes e projetos inovadores.
+Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em constante busca por expandir meus conhecimentos em desenvolvimento de sistemas e gestão de projetos. Tenho experiência em linguagens como HTML, CSS, Bootstrap, React, Node.js, JavaScript, , C#, além de estar familiarizado com UX/UI, metodologias ágeis como Scrum, ferramentas de prototipagem como Figma e diagramação como o Astah. Estou ansioso para aplicar esse conjunto de habilidades em desafios emocionantes e projetos inovadores.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,6 +15,7 @@ Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em const
 <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Figma" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/bootstrap-icons.svg"/>
 
 --
 
