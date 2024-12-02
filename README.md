@@ -36,17 +36,6 @@ www.linkedin.com/in/oluisvi
 
 ### Minhas estatísticas:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oluisvi" />
 </a>
@@ -54,15 +43,6 @@ www.linkedin.com/in/oluisvi
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluisvi&layout=donut-vertical&card_width=320" />
 </a>
 
-<a href="https://github.com/oluisvi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/oluisvi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=convoychat" />
-</a>
-          
-          
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-          
-
+     
