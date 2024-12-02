@@ -21,17 +21,19 @@ Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em const
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Minhas estatísticas:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ### Aqui está meu perfil do linkedin:
 <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 www.linkedin.com/in/oluisvi
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Minhas estatísticas:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
