@@ -23,7 +23,7 @@ Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em const
 
 ### Ferramentas que eu mais utilizo:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs&layout=donut-vertical/?username=oluisvi)](https://github.com/oluisvi/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,7 +42,24 @@ www.linkedin.com/in/oluisvi
 
 
 
-          
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oluisvi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluisvi&layout=donut-vertical&card_width=320" />
+</a>
+
+<a href="https://github.com/oluisvi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/oluisvi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=convoychat" />
+</a>
           
           
 
