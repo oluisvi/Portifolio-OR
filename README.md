@@ -7,7 +7,16 @@ Estou imerso no mundo da Análise de Desenvolvimento de Sistemas. Estou em const
 
 ### Ferramentas que eu tenho conhecimento:
 
- https://skillicons.dev/icons?i=js,html,css,wasm,aws,bootstrap,github,figma,nodejs,react)](https://skillicons.dev
+<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C#" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Figma" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+[![My Skills](https://skillicons.dev/icons?i=csharp,figma,html5,react,javascript,css3,github,nodejs,vscode&perline=3)](https://skillicons.dev)
+
 
 --
 
